@@ -1,2 +1,2 @@
 # Food Planner
- "The donkey, unable to choose beyween two bales of hay, starves to death"
+ "The donkey, unable to choose between two bales of hay, starves to death"
