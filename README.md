@@ -1,10 +1,11 @@
 # Food Planner 
-App idea: The app was made inspired by the tiktok seen that went viral. The tiktok had a simple exe file and while many asked for the source code in the comments. It wasnt given.  
+App idea: The app was made inspired by the tiktok seen that went viral.  
+The tiktok had a simple exe file and while many asked for the source code in the comments.  
+It wasnt given.  
 
 So I decided to make my own.
 
 Dont worry if you have no technical experince the steps are layed out so it's easy to follow.
-
 
 ## Deploying app to yourself
 ### 1. Install XCode
