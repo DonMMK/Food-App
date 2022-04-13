@@ -11,7 +11,9 @@ Dont worry if you have no technical experince the steps are layed out so it's ea
 
 ### 2. Next Steps
 
-<br>
+
+
+---
 ## Techincal Details
 The app is written in swift 5.0 using xcode 13.2 
 
