@@ -1,4 +1,4 @@
-# Food-For-Us
+# Food-App
 App idea: The app was made inspired by the tiktok seen that went viral.  
 The tiktok had a simple exe file and while many asked for the source code in the comments.  
 It wasnt given.  
